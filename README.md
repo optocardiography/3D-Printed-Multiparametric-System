@@ -11,7 +11,7 @@ Stage components include two lab jacks, a tilting platform, vertical lifts, and 
 
 What is provided:
 
-Each pritner-ready file (.stl) is accompanied by a CAD file (.dwg) that can be downloaded for modification purposes. 
+Each printer-ready file (.stl) is accompanied by a CAD file (.dwg) that can be downloaded for modification purposes. 
 
 
 Please direct questions or comments to us at: breecathey7@gwmail.gwu.edu or sofobaid@gwmail.gwu.edu 
